@@ -1,0 +1,57 @@
+{
+  "site": {
+    "title": "Ogilvy Marketing",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo_width": "240",
+    "logo_height": "34",
+    "logo_text": "Ogilvy Marketing"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "params": {
+    "tag_manager_id": "",
+    "contact_form_action": "/contact",
+    "footer_content": "Your partner in digital growth. We craft bespoke strategies to elevate your brand and drive measurable results.",
+    "copyright": "© 2025 Neostroph. All Rights Reserved"
+  },
+
+  "contact_info": {
+    "phone": "+1-555-MARKET",
+    "email": "info@Ogilvymarketing.com",
+    "location": "123 Marketing Ave. Suite 400, New York, NY 10001"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Get a Free Consultation",
+    "link": "/contact"
+  },
+
+  "metadata": {
+    "meta_author": "Ogilvy Marketing Team",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Ogilvy Marketing: Your trusted partner for innovative digital marketing strategies and business growth."
+  },
+
+  "call_to_action": {
+    "enable": true,
+    "title": "Ready to Transform Your Marketing?",
+    "content": "Let's discuss how our tailored strategies can help your business achieve its full potential. </br> Unlock your growth today.",
+    "button": {
+      "label": "Schedule Your Free Consultation",
+      "link": "/contact"
+    }
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "ignitemarketing-comments",
+    "settings": {}
+  }
+}
